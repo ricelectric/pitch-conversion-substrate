@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_01x09,PinHeader_1x09_P2.54mm_Vertical,102.87,-93.97,0.0,top
+J2,Conn_01x09,PinHeader_1x09_P2.54mm_Vertical,110.49,-93.97,0.0,top
+U1,ESP32-C3-WROOM-02,ESP32-C3-WROOM-02,106.68,-71.02,0.0,top
